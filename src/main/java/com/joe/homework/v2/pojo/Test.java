@@ -1,4 +1,4 @@
-package com.joe.homework.v2.config.pojo;
+package com.joe.homework.v2.pojo;
 
 
 public class Test {
