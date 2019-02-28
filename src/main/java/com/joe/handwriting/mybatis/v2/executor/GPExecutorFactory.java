@@ -1,7 +1,7 @@
-package com.joe.homework.v2.executor;
+package com.joe.handwriting.mybatis.v2.executor;
 
 
-import com.joe.homework.v2.config.GPConfiguration;
+import com.joe.handwriting.mybatis.v2.config.GPConfiguration;
 
 public class GPExecutorFactory {
 

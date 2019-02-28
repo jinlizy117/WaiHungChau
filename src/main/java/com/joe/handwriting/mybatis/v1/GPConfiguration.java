@@ -1,4 +1,4 @@
-package com.joe.homework.v1;
+package com.joe.handwriting.mybatis.v1;
 
 import java.lang.reflect.Proxy;
 import java.util.HashMap;
@@ -12,7 +12,7 @@ public class GPConfiguration {
 
 
     static class TestMapperXml{
-        public static final String namespace = "com.joe.homework.v1.TestMapper";
+        public static final String namespace = "TestMapper";
 
         public static final Map<String, String> methodSqlMapping = new HashMap<String, String>();
         static{

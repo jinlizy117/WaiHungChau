@@ -1,11 +1,11 @@
-package com.joe.homework.v2.sqlSession;
+package com.joe.handwriting.mybatis.v2.sqlSession;
 
 
-import com.joe.homework.v2.config.GPConfiguration;
-import com.joe.homework.v2.executor.GPExecutor;
-import com.joe.homework.v2.executor.GPExecutorFactory;
-import com.joe.homework.v2.mapperRegistry.GPMapperRegistry;
-import com.joe.homework.v2.proxy.MapperProxy;
+import com.joe.handwriting.mybatis.v2.config.GPConfiguration;
+import com.joe.handwriting.mybatis.v2.executor.GPExecutor;
+import com.joe.handwriting.mybatis.v2.proxy.MapperProxy;
+import com.joe.handwriting.mybatis.v2.executor.GPExecutorFactory;
+import com.joe.handwriting.mybatis.v2.mapperRegistry.GPMapperRegistry;
 
 import java.lang.reflect.Proxy;
 

@@ -1,6 +1,6 @@
-package com.joe.homework.v2.config;
+package com.joe.handwriting.mybatis.v2.config;
 
-import com.joe.homework.v2.mapperRegistry.GPMapperRegistry;
+import com.joe.handwriting.mybatis.v2.mapperRegistry.GPMapperRegistry;
 
 public class GPConfiguration {
     private String configPath;

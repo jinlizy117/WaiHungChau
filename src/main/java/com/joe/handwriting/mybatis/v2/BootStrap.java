@@ -1,10 +1,10 @@
-package com.joe.homework.v2;
+package com.joe.handwriting.mybatis.v2;
 
-import com.joe.homework.v2.config.GPConfiguration;
-import com.joe.homework.v2.config.mapper.TestMapper;
-import com.joe.homework.v2.executor.GPExecutorFactory;
-import com.joe.homework.v2.pojo.Test;
-import com.joe.homework.v2.sqlSession.GPSqlSession;
+import com.joe.handwriting.mybatis.v2.config.GPConfiguration;
+import com.joe.handwriting.mybatis.v2.config.mapper.TestMapper;
+import com.joe.handwriting.mybatis.v2.executor.GPExecutorFactory;
+import com.joe.handwriting.mybatis.v2.pojo.Test;
+import com.joe.handwriting.mybatis.v2.sqlSession.GPSqlSession;
 
 public class BootStrap {
     public static void start(){

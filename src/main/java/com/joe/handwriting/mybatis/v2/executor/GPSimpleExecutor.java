@@ -1,8 +1,8 @@
-package com.joe.homework.v2.executor;
+package com.joe.handwriting.mybatis.v2.executor;
 
-import com.joe.homework.v2.config.GPConfiguration;
-import com.joe.homework.v2.mapperRegistry.GPMapperRegistry;
-import com.joe.homework.v2.statementHandler.GPStatementHandler;
+import com.joe.handwriting.mybatis.v2.config.GPConfiguration;
+import com.joe.handwriting.mybatis.v2.mapperRegistry.GPMapperRegistry;
+import com.joe.handwriting.mybatis.v2.statementHandler.GPStatementHandler;
 
 public class GPSimpleExecutor implements GPExecutor {
     private GPStatementHandler statementHandler;

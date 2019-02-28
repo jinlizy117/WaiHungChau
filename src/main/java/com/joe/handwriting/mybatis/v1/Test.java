@@ -1,4 +1,4 @@
-package com.joe.homework.v1;
+package com.joe.handwriting.mybatis.v1;
 
 
 public class Test {

@@ -1,8 +1,8 @@
-package com.joe.homework.v2.statementHandler;
+package com.joe.handwriting.mybatis.v2.statementHandler;
 
-import com.joe.homework.v2.config.GPConfiguration;
-import com.joe.homework.v2.mapperRegistry.GPMapperRegistry;
-import com.joe.homework.v2.resultSetHandler.GPResultSetHandler;
+import com.joe.handwriting.mybatis.v2.config.GPConfiguration;
+import com.joe.handwriting.mybatis.v2.mapperRegistry.GPMapperRegistry;
+import com.joe.handwriting.mybatis.v2.resultSetHandler.GPResultSetHandler;
 
 import java.sql.*;
 

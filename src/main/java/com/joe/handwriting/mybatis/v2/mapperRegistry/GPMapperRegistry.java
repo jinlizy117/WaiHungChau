@@ -1,6 +1,6 @@
-package com.joe.homework.v2.mapperRegistry;
+package com.joe.handwriting.mybatis.v2.mapperRegistry;
 
-import com.joe.homework.v2.pojo.Test;
+import com.joe.handwriting.mybatis.v2.pojo.Test;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -13,7 +13,7 @@ public class GPMapperRegistry {
     }
 
     static {
-        methodMapperDataMapping.put("com.joe.homework.v2.config.mapper.TestMapper.findByPrimaryKey", new MethodMapperData("select * from Test where id = %d", Test.class));
+        methodMapperDataMapping.put("TestMapper.findByPrimaryKey", new MethodMapperData("select * from Test where id = %d", Test.class));
     }
 
     public static class MethodMapperData {

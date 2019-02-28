@@ -1,11 +1,10 @@
-package com.joe.homework.v2.proxy;
+package com.joe.handwriting.mybatis.v2.proxy;
 
-import com.joe.homework.v2.mapperRegistry.GPMapperRegistry;
-import com.joe.homework.v2.sqlSession.GPSqlSession;
+import com.joe.handwriting.mybatis.v2.mapperRegistry.GPMapperRegistry;
+import com.joe.handwriting.mybatis.v2.sqlSession.GPSqlSession;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
-import java.util.Map;
 
 public class MapperProxy<T> implements InvocationHandler {
     private GPSqlSession sqlSession;

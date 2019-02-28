@@ -1,4 +1,4 @@
-package com.joe.homework.v2.pojo;
+package com.joe.handwriting.mybatis.v2.pojo;
 
 
 public class Test {
